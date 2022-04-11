@@ -1,0 +1,181 @@
+body{
+margin: 0;
+ text-align: center;
+   background-color:#2e2b3c;
+font-family: 'Indie Flower', cursive;
+}
+
+h1{
+  margin-top: 0;
+  color:#474d7c;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #febcbe;
+  font-size: 50px;
+  margin: 0;
+}
+
+h6{
+  position: absolute;
+  top: 40px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  color:#EEEEEE;
+  font-family: 'Indie Flower', cursive;
+
+}
+.top-part{
+  background-color:#2e2b3c;
+  font-size: 100%;
+}
+
+
+
+/* Centered text on background image */
+.centered{
+  position: absolute;
+  top: 10%;
+  left: 40%;
+  font-size: 200%;
+}
+
+.image{
+  width: 100%;
+  height:100vh;
+}
+
+/*middle-container spacing and gif arrangement*/
+.skills{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  height: 600px;
+
+}
+
+.funny{
+  position: relative;
+  left: 33%;
+  top: 15%;
+  height: 65%;
+  width:30%;
+
+}
+
+/*skilla logo setup in middle container*/
+.html{
+    position: absolute;
+    height: 20%;
+    width: 10%;
+    right:85%;
+    top: 1500px;
+}
+
+.css{
+  position: absolute;
+  height: 20%;
+  width: 10%;
+  right:70%;
+  top: 1500px;
+}
+
+.js{
+  position: absolute;
+  height: 20%;
+  width: 10%;
+  right:53%;
+  top: 1500px;
+  border-radius: 10px;
+}
+
+.bootstrap{
+  position: absolute;
+  height: 20%;
+  width: 10%;
+  right:35%;
+  top: 1500px;
+  border-radius: 10px;
+}
+
+.jquery{
+  position: absolute;
+  height: 20%;
+  width: 10%;
+  right:85%;
+  top: 1700px;
+}
+
+.nodejs{
+  position: absolute;
+  height: 20%;
+  width: 10%;
+  right:70%;
+  top: 1700px;
+}
+
+.api{
+  position: absolute;
+  height: 20%;
+  width: 10%;
+  right:53%;
+  top: 1700px;
+}
+
+.github{
+  position: absolute;
+  height: 20%;
+  width: 10%;
+  right:35%;
+  top: 1700px;
+}
+
+.sql{
+  position: absolute;
+  height: 20%;
+  width: 10%;
+  right:85%;
+  top: 1900px;
+}
+
+.mongodb{
+  position: absolute;
+  height: 20%;
+  width: 10%;
+  right:70%;
+  top: 1900px;
+  border-radius: 100px;
+}
+
+.react{
+  position: absolute;
+  height: 20%;
+  width: 10%;
+  right:53%;
+  top: 1900px;
+  border-radius: 20px;
+}
+
+.python{
+  position: absolute;
+  height: 20%;
+  width: 10%;
+  right:35%;
+  top: 1900px;
+}
+
+.bottom-container{
+ margin-top: 5px;
+}
+
+.btn{
+color:#EEEEEE;
+}
+
+.footer-link{
+color:#EEEEEE;
+}
